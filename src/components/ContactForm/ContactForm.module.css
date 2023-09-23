@@ -1,0 +1,13 @@
+.inputWrap {
+  margin-bottom: 20px;
+}
+
+.formLabel {
+  margin-right: 10px;
+}
+
+.btnSubmit {
+  padding: 5px 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
